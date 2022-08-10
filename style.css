@@ -1,0 +1,60 @@
+*{
+    margin:0;
+}
+
+header{
+    text-align: center;
+    border-bottom: solid black 1px;
+    margin: 8px;
+
+}
+
+.container{
+    margin: 100px;
+}
+
+
+
+form{
+    margin: 0 auto;
+    text-align: center;
+}
+
+hr{
+    width: 50%;
+}
+
+
+.cocktial-name{
+    text-align: center;
+    
+}
+.img-container{
+    text-align: center;
+
+    
+}
+
+img{
+    width:50%;
+    margin: 0 auto;
+    /* border:1px red solid; */
+    
+}
+
+footer{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    position: relative;
+    bottom: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+
+.row ul{
+    text-align: center;
+}
